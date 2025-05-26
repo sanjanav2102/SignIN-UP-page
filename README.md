@@ -37,11 +37,11 @@ This Flutter project demonstrates a clean and responsive authentication interfac
 
 ---
 🧠 Concepts Practiced
-Stateless widget structure
-Page routing/navigation
-Custom widgets
-Flutter layout: Padding, Column, SizedBox, Align
-Text and UI formatting with RichText and inline gestures
+- Stateless widget structure
+- Page routing/navigation
+- Custom widgets
+- Flutter layout: Padding, Column, SizedBox, Align
+- Text and UI formatting with RichText and inline gestures
 
   ---
 📸 Screenshots

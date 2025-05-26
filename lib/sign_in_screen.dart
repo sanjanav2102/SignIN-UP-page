@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:uidev/sign_up_screen.dart';
 import '../custom_widgets.dart';
 
 class SignInScreen extends StatelessWidget {
@@ -67,6 +68,12 @@ class SignInScreen extends StatelessWidget {
                 const Text("Don't have account? "),
                 GestureDetector(
                   onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SignUpScreen(),
+                      ),
+                    );
                     // Navigate to sign up screen
                   },
                   child: const Text("Create new account.",

@@ -36,7 +36,7 @@ This Flutter project demonstrates a clean and responsive authentication interfac
 | `inputDecoration()`          | Custom input decoration with hint and border styling. |
 
 ---
-🧠 Concepts Practiced
+### 🧠 Concepts Practiced
 - Stateless widget structure
 - Page routing/navigation
 - Custom widgets
@@ -44,7 +44,7 @@ This Flutter project demonstrates a clean and responsive authentication interfac
 - Text and UI formatting with RichText and inline gestures
 
   ---
-📸 Screenshots
+### 📸 Screenshots
 
 <img width="190" alt="image" src="https://github.com/user-attachments/assets/e9cf0de9-f6ce-42d1-a49d-63ea51084cac" />
 <img width="179" alt="image" src="https://github.com/user-attachments/assets/e75915ba-5d24-405d-b981-36f9ed4e1d0c" />

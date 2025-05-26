@@ -43,9 +43,12 @@ Custom widgets
 Flutter layout: Padding, Column, SizedBox, Align
 Text and UI formatting with RichText and inline gestures
 
+  ---
 📸 Screenshots
+
+<img width="190" alt="image" src="https://github.com/user-attachments/assets/e9cf0de9-f6ce-42d1-a49d-63ea51084cac" />
 <img width="179" alt="image" src="https://github.com/user-attachments/assets/e75915ba-5d24-405d-b981-36f9ed4e1d0c" />
-<img width="187" alt="image" src="https://github.com/user-attachments/assets/c4ad569b-99b9-4cca-a3d1-bee02710e2c8" />
+
 
 
 
